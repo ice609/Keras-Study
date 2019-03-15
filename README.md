@@ -27,3 +27,7 @@ Keras 官方网站上描述了它的几个优点，具体如下。
 Keras 的核心数据结构是模型。模型是用来组织网络层的方式。模型有两种，一种叫Sequential 模型，另一种叫Model 模型。Sequential 模型是一系列网络层按顺序构成的栈，是单输入和单输出的，层与层之间只有相邻关系，是最简单的一种模型。Model 模型是用来建立更复杂的模型的。
 
 中文文档：  https://keras-cn.readthedocs.io/en/latest/
+
+           https://keras.io/zh/
+           
+Tensorflow:  https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/
