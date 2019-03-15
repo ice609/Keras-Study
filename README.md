@@ -28,6 +28,6 @@ Keras 的核心数据结构是模型。模型是用来组织网络层的方式�
 
 中文文档：  https://keras-cn.readthedocs.io/en/latest/
 
-           https://keras.io/zh/
+https://keras.io/zh/
            
 Tensorflow:  https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/
